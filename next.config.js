@@ -17,7 +17,7 @@ const nextConfig = {
 			{
 				protocol: "https",
 				hostname: "https://l4zarus-lzrs2s-projects.vercel.app",
-			}
+			},
 			{
 				protocol: "https",
 				hostname: "https://l4zarus-git-main-lzrs2s-projects.vercel.app",
