@@ -7,8 +7,8 @@ const nextConfig = {
 				hostname: "https://l4zarus.vercel.app",
 			},
 			{
-				protocol: "http",
-				hostname: "http://l4zarus.com",
+				protocol: "https",
+				hostname: "https://l4zarus.site",
 			}
 		],
 	},

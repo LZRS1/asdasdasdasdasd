@@ -40,13 +40,13 @@ export default function Home() {
           <h1 className='text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl'>
           Su mercado de alta calidad{' '}
             <span className='text-blue-600'>
-            activos digitales
+            de activos digitales
             </span>
             .
           </h1>
           <p className='mt-6 text-lg max-w-prose text-muted-foreground'>
           Bienvenido a L4ZARUS CORP. Cada activo en nuestro
-            Nuestro equipo verifica la plataforma para garantizar nuestra
+            catalogo es verificado por nuestro equipo para garantizar
             los más altos estándares de calidad.
           </p>
           <div className='flex flex-col sm:flex-row gap-4 mt-6'>
