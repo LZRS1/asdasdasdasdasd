@@ -3,8 +3,12 @@ const nextConfig = {
 	images: {
 		remotePatterns: [
 			{
+				protocol: "https",
+				hostname: "https://l4zarus.vercel.app",
+			},
+			{
 				protocol: "http",
-				hostname: "localhost",
+				hostname: "http://l4zarus.com",
 			}
 		],
 	},
